@@ -1,0 +1,11 @@
+
+language.name=English
+language.region=United States
+
+#items
+item.coal_sonar.name=Coal Sonar
+item.iron_sonar.name=Iron Sonar
+item.gold_sonar.name=Gold Sonar
+item.redstone_sonar.name=Redstone Sonar
+item.diamond_sonar.name=Diamond Sonar
+item.lapis_sonar.name=Lapis Lazuli Sonar

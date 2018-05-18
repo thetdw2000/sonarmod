@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+        "pattern": [
+             "IDI",
+             "IRI",
+             "III"
+             ],
+        "key": {
+            "I": {
+                "item": "minecraft:iron_ingot"
+            },
+            "D": {
+                "item": "minecraft:diamond"
+            },
+            "R": {
+                "item": "minecraft:redstone"
+            }
+         },
+         "result": {
+                "item": "sonarmod:diamond_sonar"
+         }       
+}

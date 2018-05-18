@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sonarmod",
+  "name": "Sonar Mod",
+  "description": "A mod that adds in a sonar device for searching for veins of ore.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["thetdw2000"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

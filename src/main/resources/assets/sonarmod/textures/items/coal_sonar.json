@@ -1,0 +1,6 @@
+{{
+	"parent": "item/coal_sonar",
+	"textures": {
+		"layer0": "items/coalsonar"
+	}
+}

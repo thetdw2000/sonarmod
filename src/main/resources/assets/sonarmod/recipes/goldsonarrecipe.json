@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+        "pattern": [
+             "IGI",
+             "IRI",
+             "III"
+             ],
+        "key": {
+            "I": {
+                "item": "minecraft:iron_ingot"
+            },
+            "G": {
+                "item": "minecraft:gold_ingot"
+            },
+            "R": {
+                "item": "minecraft:redstone"
+            }
+         },
+         "result": {
+                "item": "sonarmod:gold_sonar"
+         }       
+}
