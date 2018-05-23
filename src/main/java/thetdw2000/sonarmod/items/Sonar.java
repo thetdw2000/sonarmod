@@ -47,14 +47,8 @@ public class Sonar extends Item {
 		}
 		else {
 		playerIn.playSound(SoundEvents.BLOCK_NOTE_BASS, 5F, 0.2F);
-		try {
-			this.wait(100);
-		} catch (InterruptedException e) {
-			e.printStackTrace();
-		}
-		playerIn.playSound(SoundEvents.BLOCK_NOTE_BASS, 5F, 0.2F);
 	}	
-		
+		playerIn.getCooldownTracker().setCooldown(this, 20);
         return new ActionResult<ItemStack>(EnumActionResult.PASS, playerIn.getHeldItem(handIn));
     }
 	
